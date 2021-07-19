@@ -1474,7 +1474,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@eorzea-weather/app@workspace:packages/app"
   dependencies:
-    "@material-ui/core": ^4.12.1
+    "@material-ui/core": ^4.12.2
     "@material-ui/icons": ^4.11.2
     "@material-ui/lab": ^4.0.0-alpha.60
     "@material-ui/styles": ^4.11.4
@@ -1872,9 +1872,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@material-ui/core@npm:^4.12.1":
-  version: 4.12.1
-  resolution: "@material-ui/core@npm:4.12.1"
+"@material-ui/core@npm:^4.12.2":
+  version: 4.12.2
+  resolution: "@material-ui/core@npm:4.12.2"
   dependencies:
     "@babel/runtime": ^7.4.4
     "@material-ui/styles": ^4.11.4
@@ -1895,7 +1895,7 @@ __metadata:
   peerDependenciesMeta:
     "@types/react":
       optional: true
-  checksum: 6f612bbb75c18a9ef6746361d0736c5777c4a3a52f85bc4d0d1f6f49b2e1982dd4afc85cba1d66057f5e5d9b52ce1c6d2a9803d71592c50d96fadd74e4170201
+  checksum: daecbf812657112bfd82616ffe2add6686e80b2f0f38486108123c40cccbd0bcffb972c0d816a2b9f639f988758a86d769da6a71e6306d77b71265753786b54b
   languageName: node
   linkType: hard
 
